@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-<!--
-**Basudev-Barik/Basudev-Barik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+*I am Basudev Barik.I am a Learner. I am very much interested in Machine Learning, Deep Learning, and  Data Scientist. I update myself about the latest research on the AI domain, and I always stay curious to learn new things.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
